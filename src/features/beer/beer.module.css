@@ -1,0 +1,48 @@
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.table th,
+.table td  {
+    border: black solid 1px;
+    text-align: center;
+    word-break: break-word;
+}
+
+.brewery {
+    width: 18%;
+}
+
+.beer {
+    width: 22%;
+}
+
+.abv {
+    width: 6%;
+}
+
+.style {
+    width: 10%;
+}
+
+.bar {
+    width: 11%;
+}
+
+.details td {
+    padding-left: 5px;
+    text-align: left;
+}
+
+.table button {
+    border : none;
+    background: inherit;
+    font: inherit;
+}
+
+.details {
+    font-style: italic;
+    column-span: all;
+}

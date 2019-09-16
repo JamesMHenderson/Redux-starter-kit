@@ -1,0 +1,11 @@
+.search th {
+    text-align: right;
+    padding-right: 5px;
+    padding-left: 5px;
+    font: inherit;
+}
+
+.search td {
+    padding-right: 5px;
+    padding-left: 5px;
+}

@@ -1,0 +1,28 @@
+.filter {
+    display: flex;
+    flex-direction: column;
+}
+
+.filter th {
+    text-align: right;
+    padding-right: 5px;
+    padding-left: 5px;
+    font: inherit;
+}
+
+.filter td {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+
+.section {
+    margin: 5px 5px 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    font: inherit;
+}
+

@@ -1,0 +1,15 @@
+.table {
+    border-collapse: collapse;
+}
+
+.table th,
+.table td  {
+    border: black solid 1px;
+    padding: 10px;
+}
+
+.table button {
+    border : none;
+    background: inherit;
+    font: inherit;
+}
